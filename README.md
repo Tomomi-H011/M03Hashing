@@ -5,7 +5,7 @@ This project contains the following three apps to satisfy assignment requirement
 
 1. sha256_hash.py: Generates a SHA-256 hash for an input string or file.
     + Ask user to choose hashing an input text or a file.
-    + Hash either input text or a file using SHA-256.
+    + Hash either input text or a file using SHA-256. (User needs to type 'file_to_hash.txt' when testing file hashing.)
     + Display the input text or file name and a hashed value.
 
     + [Test Results] test1_hash_text.png, test2_hash_file.png
